@@ -318,10 +318,12 @@ button:hover,
     }
 
     .portfolio-description {
+        width: inherit;
         max-width: 100%;
     }
 
     .img-container {
+        width: inherit;
         max-width: 100%;
         display:flex;
     }
